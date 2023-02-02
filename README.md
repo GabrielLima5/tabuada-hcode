@@ -1,2 +1,7 @@
 # tabuada-hcode
-Projeto de Tabuada, que mostra o número que você escolher multiplicado de 1 até 10. Desenvolvido durante o Curso Completo de HTML5 da Hcode Treinamentos.
+Aplicação de Tabuada, que mostra o número que você escolher multiplicado de 1 até 10. 
+Desenvolvido durante o Curso Completo de HTML5 da Hcode Treinamentos.
+
+Esse projeto me possibilitou treinar minhas habilidades em HTML, CSS e JavaScript, onde pude trabalhar com tabelas (HTML), pseudo-classe nth-child (CSS) e o laço de repetição for (JavaScript).
+
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Tabuada%20Hcode.png">
