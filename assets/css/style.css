@@ -14,13 +14,13 @@ body {
 }
 
 .content-tabuada {
+  border-radius: 30px;
   width: 100%;
   max-width: 500px;
   text-align: center;
   margin: auto;
   padding: 20px;
-  background: #41295a; 
-  background: linear-gradient(to right, #2F0743, #41295a);
+  background: #26004d;
   color: white;
   font-size: 1.2em;
 }
@@ -38,4 +38,5 @@ body {
 #valorA {
   width: 100%;
   padding: 10px;
+  font-size: 1em;
 }
